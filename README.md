@@ -1,2 +1,14 @@
-# capstone-engineering-toolkit
-Practice repository for GitHub Actions, branch protection, licensing, and gitignore hygiene
+# Capstone Engineering Toolkit
+
+This repository was created for practicing GitHub repository setup and continuous integration.
+
+## Language
+
+Python
+
+## CI Checks
+
+This repository uses GitHub Actions to run:
+
+- Ruff for Python linting
+- Pytest for automated tests
